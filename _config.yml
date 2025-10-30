@@ -2,14 +2,14 @@ title: Wenyi's Blog
 author: Zhang Wenyi（张文逸）
 url: https://zhangwenyi01.github.io/ # root address of the site
 description: > # description of the site (multiple lines allowed)
-  我的个人博客，这里有我的个人介绍，发表成果以及个人学习记录和生活感悟。
+  My blog about programming, technology, and life.
 permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
 
-twitter:
-    username: abhinav # update or delete this
-    card: summary_large_image
+# twitter:
+#     username: abhinav # update or delete this
+#     card: summary_large_image
 
 #theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
 remote_theme: abhinavs/moonwalk
