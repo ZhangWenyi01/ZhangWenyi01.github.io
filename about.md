@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: post
 title: About
 ---
 
-# 关于我
+This is an example page!
 
-这里是一些占位符文本，写下你的自我介绍、背景、兴趣等。
+Actually, it has the same layout of a post...
